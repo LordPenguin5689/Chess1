@@ -1,0 +1,2 @@
+The code just checks for each of the pieces and subsitutes it for the piece name I use to represent pieces. If it is a number or empty it places "Empty" there.
+This worked fine for the initial position.

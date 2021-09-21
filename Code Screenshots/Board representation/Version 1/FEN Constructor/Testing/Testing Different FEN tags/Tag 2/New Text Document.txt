@@ -1,0 +1,6 @@
+The initial FEN tag I put in (which is called "FEN Input") was in the incorrect format.
+This caused the initial error found in the FEN array in "Console Output 1".
+I corrected the FEN tag calling it "FEN Input Corrected".
+In "Console Output 2" the FEN array is correct but had been incorrectly translated to my format.
+I had to adjust the logic in how the program approached numbers in the FEN tag. You can see the changes in "Change to the code"
+

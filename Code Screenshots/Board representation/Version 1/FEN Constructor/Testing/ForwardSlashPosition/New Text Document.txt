@@ -1,0 +1,1 @@
+Initial testing showed this is fine, however later I discovered that there were issues so the code labelled "forwardSlashPositionNew" is the updated code.
