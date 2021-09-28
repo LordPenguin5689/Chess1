@@ -1,0 +1,4 @@
+Test if the input "Black Knight" returns the correct values of:
+1
+b
+It did so test successful.

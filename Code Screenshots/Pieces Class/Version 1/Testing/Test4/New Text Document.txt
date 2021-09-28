@@ -1,0 +1,9 @@
+Entering an anomalous "piece", this time White Potato. I haven't accounted for this in my code yet so interested to see the output if it doesn't just crash.
+It returned:
+-858993460
+w
+I assume the weird number is due to an overflow error so I went ahead and just adjusted the code to make an exception when a weird "piece" is passed to the constructor. Output:
+Error in generating key. Defaulting to 0.
+0
+w
+So successful here.

@@ -1,0 +1,8 @@
+Entering an invalid "piece", this time Red Queen. Should return:
+4
+null
+It kind of worked with this weird symbol but I was unsatisfied and so I changed the code to spit out an error message and default to white. This is the output with the new code:
+Error in generating colour. Defaulting to white.
+4
+w
+This is a successful test so I can move on.
