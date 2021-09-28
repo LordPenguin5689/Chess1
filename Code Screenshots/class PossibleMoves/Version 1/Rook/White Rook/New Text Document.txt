@@ -1,0 +1,7 @@
+The 4 directions are as follows:
+Direction1 - Straight up
+Direction2 - Straight right
+Direction3 - Straight down
+Direction4 - Straight left
+
+Checks are not yet implemented.

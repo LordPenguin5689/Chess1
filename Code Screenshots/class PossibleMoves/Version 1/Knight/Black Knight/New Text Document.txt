@@ -1,0 +1,12 @@
+Directions are as follows:
+Direction1 - 2 left and 1 up
+Direction2 - 1 left and 2 up
+Direction3 - 1 right and 2 up
+Direction4 - 2 right and 1 up
+Direction5 - 2 right and 1 down
+Direction6 - 1 right and 2 down
+Direction7 - 1 left and 2 down
+Direction8 - 2 left and 1 down
+
+This is done pretty much manually so I wonder if there is a more efficient solution.
+I have not coded king checks yet, will add it afterwards.

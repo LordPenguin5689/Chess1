@@ -1,0 +1,7 @@
+Directions are as follows:
+Direction1 - Diagonally up and left
+Direction2 - Diagonally up and right
+Direction3 - Diagonally down and right
+Direction4 - Diagonally down and left.
+
+Checks aren't implemented yet.

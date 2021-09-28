@@ -1,0 +1,11 @@
+Queen is just a combination of bishop and rook so just needed to copy and paste the code from them and change slightly. Directions are as follows:
+Direction1 - Diagonally up and left
+Direction2 - Diagonally up and right
+Direction3 - Diagonally down and right
+Direction4 - Diagonally down and left.
+Direction5 - Straight up
+Direction6 - Straight right
+Direction7 - Straight down
+Direction8 - Straight left
+
+Checks are not coded yet but that will be next.
